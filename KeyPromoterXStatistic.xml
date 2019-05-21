@@ -78,7 +78,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'F3'</ShortCut>
           <Description>GoTo</Description>
-          <Count>84</Count>
+          <Count>86</Count>
         </Item>
       </Statistic>
       <Statistic Action="Hide All Windows">
@@ -126,7 +126,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'Ctrl+F11'</ShortCut>
           <Description>Rerun 'jnzcc-pools 8008'</Description>
-          <Count>1</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'jnzcc-pools [install]'">
@@ -150,7 +150,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F8' or 'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>48</Count>
+          <Count>53</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -222,7 +222,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+Shift+B' or 'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>38</Count>
+          <Count>39</Count>
         </Item>
       </Statistic>
       <Statistic Action="View Breakpoints...">
