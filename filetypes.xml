@@ -1,0 +1,7 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="06-资产池资产到期提醒配置表" type="SQL" />
+    </extensionMap>
+  </component>
+</application>
